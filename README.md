@@ -71,7 +71,7 @@ LG U+ WHY NOT SW CAMP 6기
 - 자영업자는 해당 플랫폼의 전략 구축이 가능하다.
  <br/>
 <br/>
-<img src="https://github.com/user-attachments/assets/738e418b-bd45-4ba6-8641-4d9c5e14fd83" alt="[출처: 지표누리 e-나라지표]">
+<img src="https://github.com/user-attachments/assets/89818f72-eb8f-47ff-9f7f-fd15c72ae35b" alt="[출처: 지표누리 e-나라지표]">
 소상공인 시장 경기동향 : https://www.index.go.kr/unity/potal/main/EachDtlPageDetail.do?idx_cd=1199
 </details>
 
